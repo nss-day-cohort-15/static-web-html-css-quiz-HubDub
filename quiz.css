@@ -1,0 +1,52 @@
+/*setup top row card boxes*/
+.firstcard {
+  border: 1px solid lightblue;
+  display: inline-block;
+  max-width: 30%;
+  margin: 5px 5px 5px 5px;
+}
+
+/*style headings*/
+.top {
+  border: 1px dotted lightgray;
+  text-align: center;
+}
+
+/*style pictures*/
+img {
+  display: block;
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+}
+
+/*style size price*/
+.block {
+  display: block;
+  font-weight: bold;
+}
+
+/*style descriptions*/
+p {
+  text-align: justify;
+}
+
+/*style availability*/
+.available {
+  background-color: #A9A9A9;
+  color: yellow;
+}
+
+/*style specs and price heads*/
+.subheading {
+  font-size: 150%;
+  font-weight: 600;
+}
+
+/*style bottom row card box*/
+.bottomcard {
+  border: 1px solid lightblue;
+  display: block;
+  max-width: 30%;
+  margin: 5px;
+}
